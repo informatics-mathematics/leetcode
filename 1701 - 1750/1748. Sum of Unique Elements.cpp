@@ -1,4 +1,3 @@
-```
 class Solution {
 public:
     int sumOfUnique(vector<int>& nums) 
@@ -26,4 +25,3 @@ public:
         return sum;      
     }
 };
-```
